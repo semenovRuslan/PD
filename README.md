@@ -4,7 +4,7 @@ This review for consideration MySQL and Python opportunities for analyze data.
 1.	Create table for DataWarehouse (scriptCreateTable.sql)
 2.	Load data (BX-SQL-Dump.zip(source: http://www2.informatik.uni-freiburg.de/~cziegler/BX/)) scripts for load data into staging table
 3.	Clear data (clearUsers.sql, clearFact.sql, clearBook.sql)
-4.	Tasks show grouping data in database engine
+4.	MySQLTasks show grouping data on the database engine side
 
 Python was considered in 2 direction: 
 1.	Data structure. Here I try to compare efficiency structure which was based on Dictionary and Array. This example – compare 2 library from python: array and dictionary.  
